@@ -1,3 +1,7 @@
 [submodule "RepoExternal"]
 	path = RepoExternal
 	url = https://github.com/nguphan/RepoExternal.git
+	branch = master
+[submodule "test"]
+	path = test
+	url = https://github.com/nguphan/RepoExternal.git
